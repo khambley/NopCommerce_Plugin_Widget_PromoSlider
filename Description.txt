@@ -1,0 +1,9 @@
+﻿Group: Widgets
+FriendlyName: Promo Slider	
+SystemName: Widgets.PromoSlider
+Version: 1.0
+SupportedVersions: 3.90
+Author: Katherine Hambley
+DisplayOrder: 1
+FileName: Nop.Plugin.Widget.PromoSlider.dll
+Description: This is a widget for displaying a slider of images in the specified widget zone.

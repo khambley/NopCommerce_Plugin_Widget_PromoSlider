@@ -1,0 +1,7 @@
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\Description.txt
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\web.config
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\Nop.Plugin.Widget.PromoSlider.dll
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\Nop.Plugin.Widget.PromoSlider.pdb
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widget.PromoSlider\obj\Debug\Nop.Plugin.Widget.PromoSlider.csprojResolveAssemblyReference.cache
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widget.PromoSlider\obj\Debug\Nop.Plugin.Widget.PromoSlider.dll
+H:\WEBSITES\NOPCOM3_9\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widget.PromoSlider\obj\Debug\Nop.Plugin.Widget.PromoSlider.pdb
