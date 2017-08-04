@@ -1,0 +1,1 @@
+﻿# NopCommerce PromoSlider Widget
